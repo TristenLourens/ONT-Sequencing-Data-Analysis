@@ -41,3 +41,5 @@ do
     echo "$basename,$fq,$size" >> input.csv
 done
 cat input.csv
+
+## Analysis (drug resistance) - Abricate
